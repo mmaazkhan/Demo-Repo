@@ -6,3 +6,4 @@ artifacts:
   objects:
     location: 'gs://Demo-Repo/'
     paths: ['index.html']
+logsBucket: 'gs://Demo-Repo'
